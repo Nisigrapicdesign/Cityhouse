@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1591416243538">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cityhousecontrucciones.com" resolutions="1x" timestamp="1591420861059">
   <folder name="css">
     <file name="site_global.css" crc="4091947754"/>
     <file name="index.css" crc="167720675" ref="index"/>
@@ -1272,8 +1272,9 @@
     <file name="whatsapp image 2020-02-04 at 110256 (2)-crop-u130645.jpg" crc="4068531254" seo="true" ref="galería">
       <caption webpage="galería" alt=""/>
     </file>
+    <file name="favicon.ico" crc="3772088847" ref="index"/>
   </folder>
-  <file name="index.html" crc="4107450075" seo="true" mt="1591414108091" redirect="true"/>
-  <file name="contacto.html" crc="384709196" seo="true" mt="1591412287310" redirect="true"/>
-  <file name="galería.html" crc="372905637" seo="true" mt="1591412287521" redirect="true"/>
+  <file name="index.html" crc="4216189963" seo="true" mt="1591419802604" redirect="true"/>
+  <file name="contacto.html" crc="364684139" seo="true" mt="1591420639457" redirect="true"/>
+  <file name="galería.html" crc="3891239433" seo="true" mt="1591420626196" redirect="true"/>
 </manifest>
